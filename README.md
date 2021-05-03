@@ -12,7 +12,7 @@
  - 技术博客：https://www.cnblogs.com/qvchuang/
  - Github：http://github.com/qvchuang
 
- - 期望职位：自动化测试工程师
+ - 期望职位：游戏自动化测试
  - 期望薪资：15k
  - 期望城市：上海
 
