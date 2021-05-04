@@ -4,16 +4,16 @@
  
 ## 个人信息 
 
-* 姓 名：屈闯 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;性 别：男
-* 年 龄：25   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;学 历：大专 
-* 手 机：15618777853 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：qvchuang@126.com    
-* 专 业：计算机网络技术    &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：测试工程师
+* 姓 名：屈闯&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;性 别：男
+* 年 龄：25&ensp;&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;学 历：大专 
+* 手 机：15618777853&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：qvchuang@126.com    
+* 专 业：计算机网络技术&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 岗 位：测试工程师
 
 ## 工作及教育经历
 
 * 上海域起网络科技有限公司   &ensp;&emsp;&emsp;&emsp;2019.3~2021.3 &ensp;&ensp;&ensp;&emsp;&emsp; 测试工程师-技术部       
 * 上海飘然网络科技有限公司   &ensp;&emsp;&emsp;&emsp;2017.3~2019.3     &ensp;&ensp;&ensp;&emsp;&emsp; 测试工程师-测试部         
-* 郑州电力高等专科学校      &ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&ensp;2014.9~2017.7 &emsp;&emsp;&emsp;&ensp;&ensp;计算机网络技术专业-专科  
+* 郑州电力高等专科学校&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&ensp;2014.9~2017.7 &emsp;&emsp;&emsp;&ensp;&ensp;计算机网络技术专业-专科  
 
 ## 求职意向
 
