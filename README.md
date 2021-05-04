@@ -67,8 +67,8 @@
 
 ## 个人博客
 
-- <a href="cnblogs.com/qvchuang" target="_blank">cnblogs.com/qvchuang</a>
-- <a href="qvchuang.top" target="_blank">qvchuang.top</a>
+- cnblogs.com/qvchuang
+- qvchuang.top
 
 ## 致谢
 
