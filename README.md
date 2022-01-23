@@ -11,6 +11,7 @@
 
 ## 工作及教育经历
 
+* 上海咕么信息科技有限公司   &ensp;&emsp;&emsp;&emsp;2019.5~2021.12 &ensp;&ensp;&ensp;&emsp;&emsp; 测试工程师-技术部
 * 上海域起网络科技有限公司   &ensp;&emsp;&emsp;&emsp;2019.3~2021.3 &ensp;&ensp;&ensp;&emsp;&emsp; 测试工程师-技术部       
 * 上海飘然网络科技有限公司   &ensp;&emsp;&emsp;&emsp;2017.3~2019.3 &ensp;&ensp;&ensp;&emsp;&emsp; 测试工程师-测试部         
 * 郑州电力高等专科学校 &ensp;&ensp;&ensp;&ensp;&emsp;&emsp;&emsp;&ensp;2014.9~2017.7 &ensp;&emsp;&emsp;&ensp;&ensp; 计算机网络技术专业-专科  
